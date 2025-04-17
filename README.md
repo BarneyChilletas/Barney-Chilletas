@@ -1,9 +1,12 @@
-# Hi, I'm brisbany 🥸
+# 🥸 Hi, I'm brisbany 
 
-## 👀 About me
-I'm currently learning and improving. All you see here is probably practice.
+  # 👀 About me
+  I'm currently learning and improving. All you see here is probably practice.
   
- # 🧠 Learning :
-  🟦 SpringBoot
-  🟦 python, javaScript.
-  🟦 PostgreSQL
+ ## 🧠 Learning :
+  
+    🟦 SpringBoot
+    🟦 python, javaScript.
+    🟦 PostgreSQL
+  
+
