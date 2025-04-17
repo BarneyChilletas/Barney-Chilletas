@@ -9,7 +9,8 @@
   </p>
   
   ## 👀 About me
-  I'm currently learning and improving. All you see here is probably practice.
+  I'm 17 girl who love music and programming (even if I suck at it) from colombia 🇨🇴. 
+  > currently learning and improving. All you see here is probably practice.
 
   - 💻 Focused on: **Java + Spring Boot**
 
