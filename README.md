@@ -1,4 +1,10 @@
-<h1 align="center"> 🥸 Hi, I'm brisbany </h1>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="90" />
+
+</p>
+
+<h1 align="center"> Hi, I'm brisbany </h1>
 <p align="center"> 💻 Backend Developer in progress | 🌱 Currently learning Spring Boot, Java, Python and PostgreSQL  
   </p>
   
