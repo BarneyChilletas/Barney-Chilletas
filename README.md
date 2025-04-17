@@ -1,6 +1,6 @@
 # 🥸 Hi, I'm brisbany 
 
-  # 👀 About me
+  ## 👀 About me
   I'm currently learning and improving. All you see here is probably practice.
   
  ## 🧠 Learning :
